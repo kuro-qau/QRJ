@@ -37,7 +37,7 @@ Overview
 
 |original|kana|99-shiki|QSRJ|
 |:-:|:-:|:-:|:-:|
-|翻訳蒟蒻|ホンヤクコンニャク|hon'yaku|hoqyaku|
+|翻訳|ホンヤク|hon'yaku|hoqyaku|
 |スタッカート|スタッカート|sutakkaato|suta'ka-to|
 
 - The introduction of `q` reduces `'`.
