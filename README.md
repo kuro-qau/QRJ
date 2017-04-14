@@ -23,7 +23,7 @@ Overview
 
 ### Glides
 
-|ャ|ヮ|
+|(イ)ャ|(ウ)ヮ|
 |:-:|:-:|
 |y|w|
 
@@ -50,3 +50,4 @@ Overview
 ## Author
 
 Qau
+
