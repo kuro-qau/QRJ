@@ -1,10 +1,10 @@
-# The Qau system of Romanisation of Japanese
+# The Qau system of romanisation of Japanese
 
 Overview
 
 ## Description
 
-*The Qau system of Romanisation of Japanese* (*QSRJ*) is a system of Romanisation of Japanese that Qau designed.
+*The Qau system of romanisation of Japanese* (*QSRJ*) is a system of Romanisation of Japanese that Qau designed.
 <br/>It is effected by *99-shiki Romanisation*, and also is the system of not transcription but transliteration.
 
 ## Correspondence table
@@ -17,13 +17,17 @@ Overview
 
 ### Consonants
 
-|カ|ガ|サ|ザ|タ|ダ|ナ|ハ|パ|バ|マ|ヤ|ラ|ワ|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|k|g|s|z|t|d|n|h|p|b|m|y|r|w|
+|カ|ガ|サ|ザ|タ|ダ|ナ|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|k|g|s|z|t|d|n|
+
+|ハ|パ|バ|マ|ヤ|ラ|ワ|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|h|p|b|m|y|j|v|
 
 ### Glides
 
-|(イ)ャ|(ウ)ヮ|
+|ャ|ヮ|
 |:-:|:-:|
 |y|w|
 
@@ -37,7 +41,7 @@ Overview
 
 |original|kana|99-shiki|QSRJ|
 |:-:|:-:|:-:|:-:|
-|翻訳|ホンヤク|hon'yaku|hoqyaku|
+|翻訳蒟蒻|ホンヤクコンニャク|hon'yakukonnyaku|hoqjakukoqnyaku|
 |スタッカート|スタッカート|sutakkaato|suta'ka-to|
 
 - The introduction of `q` reduces `'`.
@@ -50,4 +54,3 @@ Overview
 ## Author
 
 Qau
-
