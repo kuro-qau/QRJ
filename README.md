@@ -1,10 +1,10 @@
-# The Qau system of romanisation of Japanese
+# The Qau romanisation of Japanese
 
 Overview
 
 ## Description
 
-*The Qau system of romanisation of Japanese* (*QSRJ*) is a system of romanisation of Japanese that Qau designed.
+*The Qau romanisation of Japanese* (*QRJ*) is the system of romanisation of Japanese that Qau designed.
 <br/>It is effected by *99-shiki Romanisation*, and also is the system of not transcription but transliteration.
 
 ## Correspondence table
