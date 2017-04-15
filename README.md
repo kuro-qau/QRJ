@@ -47,10 +47,6 @@ Overview
 - The introduction of `q` reduces `'`.
 - The introduction of `'` and `-` makes one-to-one correspondence from *kana* to Ascii characters.
 
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
 ## Author
 
 Qau
